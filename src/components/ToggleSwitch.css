@@ -1,0 +1,52 @@
+.ToggleSwitch {
+    background: #888;
+    display: inline-block;
+    width: 40px;
+    height: 24px;
+    border-radius: 20px;
+    position: relative;
+    -webkit-transition: ease-in-out 100ms;
+    -moz-transition: ease-in-out 100ms;
+    transition: ease-in-out 100ms;
+    transform-origin: center left;
+    cursor: pointer !important;
+  }
+  
+  .ToggleSwitch.On {
+    background: green;
+  }
+  
+  .ToggleSwitch>input[type=radio] {
+    visibility: hidden;
+    display: none;
+  }
+  
+  .ToggleSwitch>.Switch {
+    position: absolute;
+    background: #ddd;
+    border-radius: 16px;
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin: 4px 0 0 4px;
+    -webkit-transition: linear 100ms;
+    -moz-transition: linear 100ms;
+    transition: linear 100ms;
+  }
+  
+  .ToggleSwitch>.Switch.On {
+    background: #eee;
+    right: 4px;
+  }
+  
+  .ToggleSwitch.Small, .ToggleSwitch.SM {
+    transform: scale(0.6);
+  }
+  
+  .ToggleSwitch.Medium, .ToggleSwitch.MD {
+    transform: scale(0.8);
+  }
+  
+  .ToggleSwitch.Large, .ToggleSwitch.LG {
+    transform: scale(1.0);
+  }

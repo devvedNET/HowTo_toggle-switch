@@ -1,0 +1,75 @@
+.App h1, .App h2 {
+    margin: 45px 0 10px;
+    font-weight: 300;
+}
+
+.App table {
+    width: 50%;
+}
+
+.App table thead tr td:nth-child(1) {
+    font-weight: 900;
+    background: #4D4D4D;
+    color: white;
+    padding: 2px 4px;
+}
+
+.App table thead tr td:nth-child(n+2) {
+    font-weight: 900;
+    background: #59598F;
+    color: white;
+    padding: 2px 4px;
+}
+
+.App table thead tr td:nth-child(n+2) span {
+    font-size: 0.75rem;
+    opacity: 0.85;
+}
+
+.App table tbody {
+    font-weight: 200;
+    font-size: 0.9rem;
+}
+
+
+/**
+    Example Usage 
+*/
+.App > .Example-Usage > code > pre {
+    background: rgba(170, 170, 170, 0.21);
+    display: inline-block;
+    padding: 10px 13px;
+    margin-top: 5px;
+}
+
+.App > .Example-Usage > .clear-fix {
+    display: block;
+}
+
+.App > .Example-Usage > div {
+    display: inline-block;
+}
+
+.App > .Example-Usage > .Question {
+    position: relative;
+    top: -6px;
+    font-size: 1.1rem;
+}
+
+.App > .Example-Usage > .Question.Output {
+    position: relative;
+    top: -9px;
+    font-size: 60%;
+    font-weight: 900;
+    background: #555;
+    color: #fff;
+    padding: 2px 4px;
+}
+
+.App > .Example-Usage > .Question.Output.Name {
+    background: #1370b9;
+}
+
+.App > .Example-Usage > .Answer {
+    margin-left: 10px;
+}
