@@ -1,20 +1,28 @@
+![devved toggle-switch preview](https://github.com/devvedNET/blog-assets/blob/master/images/toggle-switch.png?raw=true)
+
 # How to build a React iOS Inspired Toggle Switch Component with a TDD Workflow and the Jest Testing Framework
 
 This repo contains the source code for devved.net's How To Series Tutorial on, How to build a React iOS Inspired Toggle Switch Component with a TDD Workflow and the Jest Testing Framework
 
-Article: TODO: Add article url
-Video: TODO: Add video url
+### Tutorial Links 
+  - How To Article: TODO: Add article url
+  - Video: TODO: Add video url
 
-Topics
+
+### Topics
   - React
   - Jest
   - TDD
+
+
+### Authors
+  - Fabio Anselmo 
 
 ---
 
 MIT License
 
-Copyright (c) 2017 Fabio Anselmo
+Copyright (c) 2017 Fabio Anselmo (devvedNET)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
