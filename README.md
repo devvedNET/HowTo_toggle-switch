@@ -2,11 +2,41 @@
 
 # How to build a React iOS Inspired Toggle Switch Component with a TDD Workflow and the Jest Testing Framework
 
-This repo contains the source code for devved.net's How To Series Tutorial on, How to build a React iOS Inspired Toggle Switch Component with a TDD Workflow and the Jest Testing Framework
+This repo contains the source code for devved.net's How To Series Tutorial on, <i>How to build a React iOS Inspired Toggle Switch Component with a TDD Workflow and the Jest Testing Framework</i>
 
 ### Tutorial Links 
   - How To Article: TODO: Add article url
   - Video: TODO: Add video url
+
+<br />
+<table>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/channel/UCFj9tkVDB_v2HsHXuPx3hNg">
+          <img src="https://github.com/devvedNET/blog-assets/blob/master/images/youtube.png?raw=true" />
+            devvedNET on YouTube
+        </a>
+      </td>
+      <td>
+        <a href="https://www.github.com/devvedNET">
+          <img src="https://github.com/devvedNET/blog-assets/blob/master/images/github.png?raw=true" />
+            devvedNET on GitHub
+        </a>
+      </td>
+      <td>
+        <a href="https://www.reddit.com/u/devvedNET">
+          <img src="https://github.com/devvedNET/blog-assets/blob/master/images/reddit.png?raw=true" />
+            devvedNET on Reddit
+        </a>
+      </td>
+      <td>
+        <a href="https://www.twitter.com/devvedNET">
+          <img src="https://github.com/devvedNET/blog-assets/blob/master/images/twitter.png?raw=true" />
+            devvedNET on Twitter
+        </a>
+      </td>
+    </tr>
+</table>
 
 
 ### Topics
